@@ -1,3 +1,5 @@
 feature line1
 
-feature lin2
+feature line2
+
+feature line3
