@@ -3,3 +3,5 @@ morning
 afternoon noon
 
 evening
+
+night
