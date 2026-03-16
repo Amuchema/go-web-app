@@ -1,5 +1,3 @@
 morning
 
-afternoon
-
-evening
+afternoon
